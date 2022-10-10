@@ -1,0 +1,26 @@
+#!/bin/bash
+echototal 36                                                                                                                            
+
+drwxr-xr-x 2 root root 201 Oct 10 10:11 .                                                                                           
+
+drwxr-xr-x 6 root root 155 Oct 10 08:07 ..                                                                                          
+
+-rwxr--r-- 1 root root  30 Oct 10 08:24 0-hello_world                                                                               
+
+-rwxr--r-- 1 root root  28 Oct 10 08:47 1-confused_smiley                                                                           
+
+-rwxr--r-- 1 root root  28 Oct 10 09:12 2-hellofile                                                                                 
+
+-rwxr--r-- 1 root root  39 Oct 10 09:16 3-twofiles                                                                                  
+
+-rwxr--r-- 1 root root  35 Oct 10 09:18 4-lastlines                                                                                 
+
+-rwxr--r-- 1 root root  35 Oct 10 09:21 5-firstlines                                                                                
+
+-rwxr--r-- 1 root root  36 Oct 10 09:48 6-third_line                                                                                
+
+-rwxr--r-- 1 root root  69 Oct 10 10:07 7-file                                                                                      
+
+-rw-r--r-- 1 root root   0 Oct 10 10:11 ls_cwd_content                                                                              
+
+-rw-r--r-- 1 root root  81 Oct 10 08:09 README.md > ls_cwd_content
